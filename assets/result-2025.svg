@@ -1,23 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
-<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#050505"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#2a1905"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#b3863e"/><stop offset="1" stop-color="#f3d48a"/></linearGradient></defs>
-<rect width="1200" height="1600" fill="url(#bg)"/><circle cx="1050" cy="120" r="260" fill="none" stroke="#d8b56a" stroke-opacity=".18" stroke-width="2"/>
-<text x="82" y="112" font-size="28" fill="#d8b56a" font-weight="900" letter-spacing="6">AIM STUDY RESULT</text>
-<text x="82" y="210" font-size="72" fill="#fff" font-weight="900">2025학년도 합격 실적</text><line x1="82" y1="258" x2="1118" y2="258" stroke="url(#gold)" stroke-width="3"/>
-<rect x="82" y="330" width="1036" height="505" rx="34" fill="rgba(255,255,255,.08)" stroke="#d8b56a" stroke-opacity=".55"/>
-<text x="130" y="405" font-size="44" fill="#f3d48a" font-weight="900">영재학교</text><text x="130" y="475" font-size="30" fill="#fff" font-weight="700">세종과학예술영재학교 7명</text>
-<text x="130" y="522" font-size="30" fill="#fff" font-weight="700">한솔중 박**</text>
-<text x="130" y="569" font-size="30" fill="#fff" font-weight="700">새뜸중 이**</text>
-<text x="130" y="616" font-size="30" fill="#fff" font-weight="700">양지중 이**</text>
-<text x="130" y="663" font-size="30" fill="#fff" font-weight="700">도담중 조**</text>
-<text x="130" y="710" font-size="30" fill="#fff" font-weight="700">글벗중 김**</text>
-<text x="130" y="757" font-size="30" fill="#fff" font-weight="700">새뜸중 한**</text>
-<text x="130" y="804" font-size="30" fill="#fff" font-weight="700">보람중 홍**</text>
-<rect x="82" y="900" width="1036" height="505" rx="34" fill="rgba(255,255,255,.08)" stroke="#d8b56a" stroke-opacity=".55"/>
-<text x="130" y="975" font-size="44" fill="#f3d48a" font-weight="900">과학고</text><text x="130" y="1045" font-size="30" fill="#fff" font-weight="700">과학고 합격 13명</text>
-<text x="130" y="1092" font-size="30" fill="#fff" font-weight="700">충남과고 1명</text>
-<text x="130" y="1139" font-size="30" fill="#fff" font-weight="700">동신과고 3명</text>
-<text x="130" y="1186" font-size="30" fill="#fff" font-weight="700">대구일과고 4명</text>
-<text x="130" y="1233" font-size="30" fill="#fff" font-weight="700">울산과고 1명</text>
-<text x="130" y="1280" font-size="30" fill="#fff" font-weight="700">전남과고 2명</text>
-<text x="130" y="1327" font-size="30" fill="#fff" font-weight="700">강원과고 2명</text>
-<text x="82" y="1510" font-size="30" fill="#d8b56a" font-weight="900">에임스터디학원</text><text x="82" y="1552" font-size="22" fill="#d1d5db">세종 영재학교 · 과학고 · 자사고 입시 전문</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#070707"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#211609"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#b3863e"/><stop offset="1" stop-color="#f3d48a"/></linearGradient>
+</defs>
+<rect width="1200" height="1500" fill="url(#bg)"/>
+<text x="860" y="225" font-size="170" fill="#d8b56a" opacity=".11" font-weight="900">A</text>
+<circle cx="990" cy="190" r="210" fill="none" stroke="#d8b56a" stroke-opacity=".16" stroke-width="2"/>
+<text x="82" y="110" font-size="26" fill="#d8b56a" font-weight="900" letter-spacing="5">AIM STUDY RESULT</text>
+<text x="82" y="195" font-size="66" fill="#ffffff" font-weight="900">2025학년도 합격 실적</text>
+<text x="82" y="260" font-size="42" fill="#f3d48a" font-weight="900">🏆</text>
+<line x1="140" y1="247" x2="1118" y2="247" stroke="url(#gold)" stroke-width="3"/>
+<rect x="82" y="330" width="1036" height="455" rx="28" fill="rgba(255,255,255,.07)" stroke="#d8b56a" stroke-opacity=".48"/>
+<text x="130" y="398" font-size="40" fill="#f3d48a" font-weight="900">영재학교</text><text x="130" y="465" font-size="26" fill="#f7f1e6" font-weight="700">세종과학예술영재학교 7명</text>
+<text x="130" y="507" font-size="26" fill="#f7f1e6" font-weight="700">한솔중 박**</text>
+<text x="130" y="549" font-size="26" fill="#f7f1e6" font-weight="700">새뜸중 이**</text>
+<text x="130" y="591" font-size="26" fill="#f7f1e6" font-weight="700">양지중 이**</text>
+<text x="130" y="633" font-size="26" fill="#f7f1e6" font-weight="700">도담중 조**</text>
+<text x="130" y="675" font-size="26" fill="#f7f1e6" font-weight="700">글벗중 김**</text>
+<text x="130" y="717" font-size="26" fill="#f7f1e6" font-weight="700">새뜸중 한**</text>
+<text x="130" y="759" font-size="26" fill="#f7f1e6" font-weight="700">보람중 홍**</text>
+<rect x="82" y="850" width="1036" height="455" rx="28" fill="rgba(255,255,255,.07)" stroke="#d8b56a" stroke-opacity=".48"/>
+<text x="130" y="918" font-size="40" fill="#f3d48a" font-weight="900">과학고</text><text x="130" y="985" font-size="26" fill="#f7f1e6" font-weight="700">과학고 합격 13명</text>
+<text x="130" y="1027" font-size="26" fill="#f7f1e6" font-weight="700">충남과고 1명</text>
+<text x="130" y="1069" font-size="26" fill="#f7f1e6" font-weight="700">동신과고 3명</text>
+<text x="130" y="1111" font-size="26" fill="#f7f1e6" font-weight="700">대구일과고 4명</text>
+<text x="130" y="1153" font-size="26" fill="#f7f1e6" font-weight="700">울산과고 1명</text>
+<text x="130" y="1195" font-size="26" fill="#f7f1e6" font-weight="700">전남과고 2명</text>
+<text x="130" y="1237" font-size="26" fill="#f7f1e6" font-weight="700">강원과고 2명</text>
+<text x="82" y="1415" font-size="30" fill="#d8b56a" font-weight="900">에임스터디학원</text>
+<text x="82" y="1454" font-size="22" fill="#d1d5db">세종 영재학교 · 과학고 · 자사고 입시 전문</text>
+</svg>
